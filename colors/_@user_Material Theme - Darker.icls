@@ -4,7 +4,7 @@
     <property name="created">2017-04-14T22:34:15</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-04-30T01:19:44</property>
+    <property name="modified">2017-04-30T13:51:51</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -1331,9 +1331,27 @@
         <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
+    <option name="PHP_BRACES">
+      <value>
+        <option name="FOREGROUND" value="cad3de" />
+      </value>
+    </option>
+    <option name="PHP_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="cad3de" />
+      </value>
+    </option>
     <option name="PHP_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="PHP_COMMA">
+      <value />
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="444444" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
@@ -1347,10 +1365,23 @@
         <option name="FOREGROUND" value="2c9ea7" />
       </value>
     </option>
+    <option name="PHP_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="80cbc4" />
+      </value>
+    </option>
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
       </value>
+    </option>
+    <option name="PHP_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="798194" />
+      </value>
+    </option>
+    <option name="PHP_SEMICOLON">
+      <value />
     </option>
     <option name="PHP_TAG">
       <value>
