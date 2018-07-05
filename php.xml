@@ -791,9 +791,4 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="2f064fef-da9d-4917-a88f-4983e5e3ab6b" load_method="PHPUNIT_PHAR" custom_loader_path="/Volumes/br-documents/Code/bankrate-portal/vendor/autoload.php" phpunit_phar_path="/usr/local/bin/phpunit.phar" />
-    </phpunit_settings>
-  </component>
 </application>
