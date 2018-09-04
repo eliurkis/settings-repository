@@ -4,7 +4,7 @@
     <property name="created">2018-08-23T14:19:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-08-29T10:57:33</property>
+    <property name="modified">2018-09-04T09:29:11</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -647,11 +647,6 @@
       <value>
         <option name="FOREGROUND" value="546e7a" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
