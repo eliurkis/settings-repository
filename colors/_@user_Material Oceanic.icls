@@ -4,13 +4,13 @@
     <property name="created">2018-08-23T14:19:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-09-06T15:16:49</property>
+    <property name="modified">2018-09-06T15:33:59</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Operator Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -602,14 +602,10 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="eeffe3" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="f07f3d" />
-      </value>
-    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="eeffff" />
