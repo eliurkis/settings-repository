@@ -4,6 +4,7 @@
       <mapping pattern=".env-qa" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".git/hooks/pre-commit" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
