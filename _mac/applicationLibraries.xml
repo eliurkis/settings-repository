@@ -20,6 +20,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/knex-postgis" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/react" type="javaScript">
       <CLASSES />
       <SOURCES />
