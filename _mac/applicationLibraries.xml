@@ -1,0 +1,61 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/datadog-metrics" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/faker" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/hapi" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/joi" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/knex-postgis" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-app" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sequelize" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/styled-jsx" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/styled-system" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="classy" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_classy.bankrate.com_1.0.0-beta.1_js_classy.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_classy.bankrate.com_1.0.3_js_classy.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_classy.bankrate.com_1.0.0-beta.1_js_classy.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_classy.bankrate.com_1.0.3_js_classy.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
