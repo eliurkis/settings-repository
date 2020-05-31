@@ -1,4 +1,9 @@
 <keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move">
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt m" />
+  </action>
   <action id="EslintImportCodeStyle">
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
@@ -10,5 +15,8 @@
   </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
   </action>
 </keymap>
