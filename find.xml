@@ -16,5 +16,6 @@
     <mask>*.ts</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*8130*</mask>
   </component>
 </application>
