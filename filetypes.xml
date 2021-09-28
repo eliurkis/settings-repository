@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".valetphprc" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
       <mapping pattern="wkhtmltopdf-amd64" type="PLAIN_TEXT" />
